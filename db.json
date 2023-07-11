@@ -8,7 +8,12 @@
     "es": {
       "signup": "Autenticarse",
       "email": "Correo electronico",
-      "password": "Contrasena"
+      "password": "Contraseña"
+    },
+    "fr": {
+      "signup": "Authentifiez-vous",
+      "email": "Courriel",
+      "password": "Mot de passe"
     }
   }
 }
