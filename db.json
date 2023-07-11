@@ -1,6 +1,5 @@
 {
-  "languages":{
-    "en-US": {
+  "en-US": {
       "signup": "Si\"gn\"up",
       "email": "Email",
       "password": "Pass\n\nword"
@@ -15,5 +14,4 @@
       "email": "Courriel",
       "password": "Mot de passe"
     }
-  }
 }
