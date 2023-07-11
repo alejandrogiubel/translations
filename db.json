@@ -1,9 +1,9 @@
 {
   "languages":{
     "en-US": {
-      "signup": "Signup",
+      "signup": "Si\"gn\"up",
       "email": "Email",
-      "password": "Password"
+      "password": "Pass\n\nword"
     },
     "es-ES": {
       "signup": "Autenticarse",
