@@ -1,14 +1,7 @@
 {
-  "asd":{
-    "en": {
+  "en": {
       "signup": "Signup",
       "email": "Email",
       "password": "Password"
-    },
-    "es": {
-      "signup": "Autenticarse",
-      "email": "Correo electronico",
-      "password": "Contrasena"
     }
-  }
 }
