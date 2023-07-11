@@ -1,4 +1,5 @@
 {
+  "languages": {
   "en": {
     "signup": "Signup",
     "email": "Email",
@@ -9,4 +10,6 @@
     "email": "Correo electronico",
     "password": "Contrasena"
   }
+}
+
 }
