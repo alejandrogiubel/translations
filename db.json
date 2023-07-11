@@ -11,7 +11,7 @@
       "password": "Contraseña"
     },
     "fr-FR": {
-      "signup": "Authentifiez-vous",
+      "signup": "Authentifiez\"-\"vous",
       "email": "Courriel",
       "password": "Mot de passe"
     }
