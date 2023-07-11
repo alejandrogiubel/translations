@@ -1,16 +1,16 @@
 {
   "languages":{
-    "en": {
+    "en-US": {
       "signup": "Signup",
       "email": "Email",
       "password": "Password"
     },
-    "es": {
+    "es-ES": {
       "signup": "Autenticarse",
       "email": "Correo electronico",
       "password": "Contraseña"
     },
-    "fr": {
+    "fr-FR": {
       "signup": "Authentifiez-vous",
       "email": "Courriel",
       "password": "Mot de passe"
