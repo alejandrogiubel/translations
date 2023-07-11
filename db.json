@@ -1,19 +1,17 @@
 {
-  "languages":{
-    "en-US": {
-      "signup": "Signup",
-      "email": "Email",
-      "password": "Password"
-    },
-    "es-ES": {
-      "signup": "Autenticarse",
-      "email": "Correo electronico",
-      "password": "Contraseña"
-    },
-    "fr-FR": {
-      "signup": "Authentifiez-vous",
-      "email": "Courriel",
-      "password": "Mot de passe"
-    }
+  "en-US": {
+    "signup": "Signup",
+    "email": "Email",
+    "password": "Password"
+  },
+  "es-ES": {
+    "signup": "Autenticarse",
+    "email": "Correo electronico",
+    "password": "Contraseña"
+  },
+  "fr-FR": {
+    "signup": "Authentifiez-vous",
+    "email": "Courriel",
+    "password": "Mot de passe"
   }
 }
